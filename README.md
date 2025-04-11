@@ -1,9 +1,12 @@
 ## About me:
 I am a high schooler who enjoys coding and modcharting
-below are the languages i use the most
 
+
+## My most used coding languages!
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just-Naki-here" />
 
+## Other stats!
+[![GitHub Streak](https://streak-stats.demolab.com?user=just-Naki-here&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 **just-Naki-here/just-Naki-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
