@@ -11,6 +11,9 @@ I am a high schooler who enjoys coding and modcharting
 ## more stats
 
 ![just-Naki-here's Stats](https://github-readme-stats.vercel.app/api?username=just-Naki-here&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+[![wakatime](https://wakatime.com/badge/github/just-Naki-here/NakisRandomfnfmodcharts.svg)](https://wakatime.com/badge/github/just-Naki-here/NakisRandomfnfmodcharts)
 <!--
 **just-Naki-here/just-Naki-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
