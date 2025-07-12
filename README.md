@@ -1,6 +1,14 @@
-## About me:
-I am a high schooler who enjoys coding and modcharting
-
+# Stuff... I guess
+Name: Jonathan (Call me Naki instead)
+Age:17
+Birthday: 12/28/07
+TIMEZONE: IM TEXAN(CDT/CST)
+Pronouns: HE/HIM
+favourite games: Minecraft, Roblox(main is banned( thanks roblox)), Friday Night Funkin’, Osu!, and ADOFAI( A Dance Of Fire And Ice)
+Favourite hobbies: Coding, writing stories, gaming, and pestering friends
+Extra: I have ADHD-C and am scared of nuts(not that type)(the food)
+Likes: Cats, most mythical creatures, cookie dough, cheese, etc.(there's too much to say)
+Dislikes: Dogs, being bossed around, being overwhelmed, parents' expectations being too high, homework, not having free time, Gorilla Tag, Brainrot, Grow A Garden, having screen time limits imposed on me, and errors in my code.
 
 ## My most used coding languages!
 ![just-Naki-here's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-Naki-here&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
