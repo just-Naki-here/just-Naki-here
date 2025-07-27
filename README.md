@@ -14,7 +14,7 @@
 - - discord: ju5t_nakikes
 
 ## Ways to support me:
-Patreon: https://patreon.com/Just_NAKI_here
+Patreon: [Just_Naki_here](https://patreon.com/Just_NAKI_here)
 
 
 ## My most used coding languages!
