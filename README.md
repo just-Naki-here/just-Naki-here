@@ -3,12 +3,12 @@
 - Age:17</n>
 - Birthday: 12/28/07</n>
 - TIMEZONE: IM TEXAN(CDT/CST)</n>
-- Pronouns: HE/HIM</n>
+- Pronouns: HE/HIM/HIS</n>
 - favourite games: Minecraft, Roblox(main is banned( thanks roblox)), Friday Night Funkin’, Osu!, and ADOFAI( A Dance Of Fire And Ice)
 - Favourite hobbies: Coding, writing stories, gaming, and pestering friends</n>
 - Extra: I have ADHD-C and am scared of nuts(not that type)(the food)(due to me being allergic to them)</n>
-- Likes: Cats, most mythical creatures, cookie dough, cheese, etc.(there's too much to say)</n>
-- Dislikes: Dogs, being bossed around, being overwhelmed, parents' expectations being too high, homework, not having free time, Gorilla Tag, Brainrot, Grow A Garden, having screen time limits imposed on me, and errors in my code.</n>
+- Likes: Cats, most mythical creatures, cookie dough, cheese, origami, etc.(there's too much to say)</n>
+- Dislikes: Dogs, being bossed around, being overwhelmed, parents' expectations being too high, homework, not having free time, Gorilla Tag, Brainrot, Grow A Garden, having screen time limits imposed on me, school, and errors in my code.</n>
 - Ways to reach me:
 - - [email](just.naki.here@gmail.com)
 - - discord: ju5t_nakikes
