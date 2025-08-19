@@ -9,6 +9,7 @@
 - Extra: I have ADHD-C and am scared of nuts(not that type)(the food)(due to me being allergic to them)</n>
 - Likes: Cats, most mythical creatures, cookie dough, cheese, origami, etc.(there's too much to say)</n>
 - Dislikes: Dogs, being bossed around, being overwhelmed, parents' expectations being too high, homework, not having free time, Gorilla Tag, Brainrot, Grow A Garden, having screen time limits imposed on me, school, and errors in my code.</n>
+- ALWAYS FUCKING MISUNDERSTOOD AND MY APOLOGIES GET TAKEN WRONG ALL THE FUCKING TIME
 - Ways to reach me:
 - - [email](just.naki.here@gmail.com)
 - - discord: ju5t_nakikes
