@@ -13,7 +13,7 @@
 - Ways to reach me:
 - - [email](just.naki.here@gmail.com)
 - - discord: n4k2
-- - discord server: <iframe src="https://discord.com/widget?id=1409350859791405218&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+- - discord server: [![Discord Banner](https://discord.com/api/guilds/1409350859791405218/widget.png?style=banner2)](https://discord.gg/JaMNJpJgC5)
 
 ## Ways to support me:
 - [My Patreon](https://patreon.com/Just_NAKI_here)
