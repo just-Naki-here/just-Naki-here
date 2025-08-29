@@ -12,7 +12,8 @@
 - ALWAYS FUCKING MISUNDERSTOOD AND MY APOLOGIES GET TAKEN WRONG ALL THE FUCKING TIME
 - Ways to reach me:
 - - [email](just.naki.here@gmail.com)
-- - discord: ju5t_nakikes
+- - discord: n4k2
+- - discord server: <iframe src="https://discord.com/widget?id=1409350859791405218&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## Ways to support me:
 - [My Patreon](https://patreon.com/Just_NAKI_here)
