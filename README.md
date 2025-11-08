@@ -101,8 +101,7 @@ Badges:
 
 <details>
 <summary>Team & Misc</summary>
-
-▪ Team <spoiler>ivan</spoiler> Fuck off  
+▪ Team Therapy Denied forever!!!!
 ▪ Always learning new tricks in coding and gaming  
 ▪ Creativity, storytelling, and problem-solving fan  
 
