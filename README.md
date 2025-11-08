@@ -1,14 +1,9 @@
-<!-- Dark Mode Banner -->
-<div align="center">
-  <img src="https://via.placeholder.com/800x150/1e1e1e/ffffff?text=Jonathan+(Call+me+Naki)" alt="Banner" />
-  <p><b>Developer | Gamer | Storyteller</b></p>
-  <p>
-    Badges:  
-    [![GitHub followers](https://img.shields.io/github/followers/just-Naki-here?style=flat&color=blue)](https://github.com/just-Naki-here?tab=followers) 
-    [![GitHub repo stars](https://img.shields.io/github/stars/just-Naki-here?style=flat&color=yellow)](https://github.com/just-Naki-here?tab=repositories)
-  </p>
-  <p>Fan of gaming, coding, creativity, and quirky fun facts.</p>
-</div>
+# Jonathan (Call me Naki)
+**Developer | Gamer | Storyteller**
+
+Badges:  
+[![GitHub followers](https://img.shields.io/github/followers/just-Naki-here?style=flat&color=blue)](https://github.com/just-Naki-here?tab=followers) 
+[![GitHub repo stars](https://img.shields.io/github/stars/just-Naki-here?style=flat&color=yellow)](https://github.com/just-Naki-here?tab=repositories)
 
 ---
 
@@ -45,7 +40,7 @@
 <details>
 <summary>Contact & Reach Me</summary>
 
-- **Email:** [just.naki.here@gmail.com](mailto:just.naki.here@gmail.com)  
+- **Email:** [just.naki.here@gmail.com](mailto:just.naki.here)  
 - **Discord:** n4k2  
 - **Twitter:** [@just_naki_here](https://twitter.com/just_naki_here)
 
