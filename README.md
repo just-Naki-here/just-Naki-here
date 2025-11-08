@@ -1,142 +1,159 @@
-<!-- 🌑 Dark Mode Banner -->
-<div align="center">
-  <h1 style="color:#c9d1d9;">🌙 just-Naki-here 👨‍💻</h1>
-  <p style="color:#8b949e;">"Coding chaos, writing stories, and dodging nuts since 2007."</p>
-  <img src="https://komarev.com/ghpvc/?username=just-Naki-here&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Status-Taken%20❤️-blueviolet?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue?style=for-the-badge" alt="Pronouns"/>
-  <img src="https://img.shields.io/badge/Location-Texas%20🌵-orange?style=for-the-badge" alt="Location"/>
+<!-- Dark Mode Banner -->
+<div align="center" style="background-color:#1e1e1e; padding:25px; border-radius:12px; color:white;">
+  <h1>Jonathan (Call me Naki)</h1>
+  <p>Developer | Gamer | Storyteller</p>
+  <p>
+    Badges: 
+    [![GitHub followers](https://img.shields.io/github/followers/just-Naki-here?style=flat&color=blue)](https://github.com/just-Naki-here?tab=followers) 
+    [![GitHub repo stars](https://img.shields.io/github/stars/just-Naki-here?style=flat&color=yellow)](https://github.com/just-Naki-here?tab=repositories)
+  </p>
+  <p>Fan of gaming, coding, creativity, and quirky fun facts.</p>
 </div>
 
 ---
 
-# 🌌 Stuff... I Guess
+<style>
+details > summary {
+  background-color: #2b2b2b;
+  color: white;
+  padding: 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+details > summary:hover {
+  background-color: #3c3c3c;
+}
+details div {
+  background-color: #1e1e1e;
+  padding: 15px;
+  border-radius: 6px;
+  margin-top: 8px;
+  color: white;
+}
+</style>
 
 <details>
-  <summary>📘 Basic Info</summary>
-
-  - **Name:** Jonathan *(Call me Naki instead)*  
-  - **Age:** 17  
-  - **Birthday:** 12/28/07  
-  - **Timezone:** CDT / CST *(I’m Texan, yeehaw 🤠)*  
-  - **Pronouns:** He/Him/His  
-  - **Sexuality:** Bi  
-  - **Status:** Taken by **ju5t_spade ❤️**  
-  - **Favourite Games:** Minecraft, Roblox *(main’s banned — thanks Roblox)*, Friday Night Funkin’, Osu!, and ADOFAI *(A Dance Of Fire And Ice)*  
-  - **Favourite Hobbies:** Coding, writing stories, gaming, and pestering friends 😈  
-  - **Extra:** I have ADHD-C and a nut allergy (the edible kind, don’t get weird about it).  
-</details>
-
----
-
-<details>
-  <summary>😼 Likes & Dislikes</summary>
-
-  **Likes:**  
-  🐱 Cats  
-  🧙‍♂️ Mythical creatures  
-  🍪 Cookie dough  
-  🧀 Cheese  
-  🦢 Origami  
-  💞 My girlfriend *(ily Spade!)*  
-  💬 Deep convos, creative projects, cozy nights, and old-school internet aesthetics  
-
-  **Dislikes:**  
-  🐶 Dogs (don’t @ me)  
-  🧠 Being overwhelmed or bossed around  
-  🎓 Unrealistic expectations from parents or school  
-  ⌛ Lack of free time and screen time limits  
-  🧩 Code errors that ruin my mood  
-  💢 Harassment toward me or Spade  
-  💀 “Grow a Garden,” “Gorilla Tag,” and Brainrot  
-</details>
-
----
-
-<details>
-  <summary>🔥 Fun Facts</summary>
-
-  - ☕ I *literally* can’t drink caffeine — I pass out if I do.  
-  - 💻 I can code in multiple languages but somehow can’t code a single thing properly on Roblox.  
-  - 🧠 I started writing lore-heavy stories before I was even a teenager.  
-  - 🐉 I have an unhealthy obsession with dragons.  
-  - 🎧 I listen to music for **80%** of my waking hours.  
-  - 🕹️ I’ve been gaming since I could reach a keyboard.  
-  - 🐾 I once taught myself HTML by breaking a website and fixing it again.  
-  - 🐱 I can tell cat breeds apart just by looking at their ear shape.  
-  - 🧊 I love cold weather — winter is superior.  
-  - 🔥 I once stayed up three nights debugging a script that turned out to be missing a semicolon.  
-  - 💀 I have a playlist for every mood, including “existential dread.”  
-</details>
-
----
-
-<details>
-  <summary>📫 Contact Me</summary>
-
-  - **Email:** [just.naki.here@gmail.com](mailto:just.naki.here@gmail.com)  
-  - **Discord:** n4k2  
-</details>
-
----
-
-<details>
-  <summary>💖 Ways to Support Me</summary>
-
-  🧡 [**My Patreon**](https://patreon.com/Just_NAKI_here) – support my chaos and creativity!  
-  🌟 You can also star or fork my repositories if you like what I make — that helps more than you’d think.  
-</details>
-
----
-
-<details>
-  <summary>📦 My Most Worked-On Repository</summary>
-
-  [**Naki’s Random FNF Modcharts**](https://github.com/just-Naki-here/NakisRandomfnfmodcharts/tree/moremmodd)  
-  A chaotic collection of rhythm game modcharts that will either amaze you or melt your brain.
-</details>
-
----
-
-<details>
-  <summary>🧩 My Psych Engine Modchart Autoloader</summary>
-
-  [**Autoloader Repository**](https://github.com/just-Naki-here/Psych-Engine-Autoloader)  
-  Automatically loads modcharts for Psych Engine. Because doing it manually is for the weak.
-</details>
-
----
-
-<details>
-  <summary>💻 My Most Used Coding Languages</summary>
-
-  ![just-Naki-here's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-Naki-here&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</details>
-
----
-
-<details>
-  <summary>🔥 My GitHub Streaks</summary>
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=just-Naki-here&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-</details>
-
----
-
-<details>
-  <summary>📊 More Stats</summary>
-
-  ![just-Naki-here's Stats](https://github-readme-stats.vercel.app/api?username=just-Naki-here&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-  [![wakatime](https://wakatime.com/badge/github/just-Naki-here/NakisRandomfnfmodcharts.svg)](https://wakatime.com/badge/github/just-Naki-here/NakisRandomfnfmodcharts)
-</details>
-
----
-
-<div align="center">
-  <br>
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke"/>
-  <br><br>
-  <b>Thanks for scrolling through my chaos 💫</b><br>
-  <sub>✨ Stay creative, stay weird, and touch some grass between commits. ✨</sub>
+<summary>About Me & Personal Info</summary>
+<div>
+- **Full Name:** Jonathan (Call me Naki)  
+- **Age:** 17  
+- **Birthday:** 12/28/07  
+- **Timezone:** Texas, USA (CDT/CST)  
+- **Pronouns:** He/Him/His  
+- **Sexuality:** Bi  
+- **Relationship Status:** Taken by ju5t_spade  
+- **Favourite Games:** Minecraft, Roblox (main is banned thanks Roblox), Friday Night Funkin’, Osu!, ADOFAI (A Dance Of Fire And Ice), Terraria, Stardew Valley  
+- **Favourite Hobbies:** Coding projects, writing stories, gaming marathons, messing around with friends, learning new tech tricks, dabbling in pixel art  
+- **Extra Personal Info:**  
+  - Diagnosed with ADHD-C, which keeps me constantly thinking 10 steps ahead  
+  - Allergic to certain nuts (food allergy)  
+  - Collects notebooks and likes to write down random thoughts and story ideas  
+  - Enjoys late-night coding sessions paired with music  
+- **Likes:** Cats, most mythical creatures, cookie dough, cheese, origami, my girlfriend (ily spade!), quiet nights, coding challenges, mystery novels, fantasy lore  
+- **Dislikes:** Dogs (personal preference), being bossed around, excessive homework, overly high parental expectations, screen time limits, school bureaucracy, Gorilla Tag, Brainrot, Grow A Garden, mistakes in code, people harassing my girlfriend, getting harassed  
 </div>
+</details>
+
+<details>
+<summary>Fun Facts & Quirks</summary>
+<div>
+- Can’t drink caffeine—pass out instantly  
+- Roblox coding has cursed me; nothing works  
+- Obsessed with origami and folding intricate shapes  
+- Memorized Minecraft speedrun techniques  
+- Often write entire stories in my head before sleeping  
+- Enjoys solving complex logic puzzles and coding challenges  
+- Collects funny internet memes for inspiration in writing  
+- Always looking for new gaming mods or creative hacks  
+</div>
+</details>
+
+<details>
+<summary>Contact & Reach Me</summary>
+<div>
+- **Email:** [just.naki.here@gmail.com](mailto:just.naki.here@gmail.com)  
+- **Discord:** n4k2  
+- **Twitter:** [@just_naki_here](https://twitter.com/just_naki_here) (optional, for updates & coding projects)  
+</div>
+</details>
+
+<details>
+<summary>Support Me</summary>
+<div>
+- **Patreon:** [Support my work](https://patreon.com/Just_NAKI_here)  
+- **Tips/Donations:** Open to supporters on request  
+</div>
+</details>
+
+<details>
+<summary>Projects & Work</summary>
+<div>
+- **Most Worked On Repository:** [My Modcharts](https://github.com/just-Naki-here/NakisRandomfnfmodcharts/tree/moremmodd)  
+- **Psych Engine Modchart Autoloader:** [Autoloader](https://github.com/just-Naki-here/Psych-Engine-Autoloader)  
+- **Other Projects:** Experimenting with custom game mods, small coding scripts, and personal tools for gaming and productivity  
+</div>
+</details>
+
+<details>
+<summary>Coding Stats & Top Languages</summary>
+<div>
+- **Top Languages:**  
+![just-Naki-here's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-Naki-here&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+- **GitHub Streak:**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=just-Naki-here&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+- **GitHub Stats:**  
+![just-Naki-here's Stats](https://github-readme-stats.vercel.app/api?username=just-Naki-here&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+- **WakaTime Badge:**  
+[![wakatime](https://wakatime.com/badge/github/just-Naki-here/NakisRandomfnfmodcharts.svg)](https://wakatime.com/badge/github/just-Naki-here/NakisRandomfnfmodcharts)
+</div>
+</details>
+
+<details>
+<summary>My Timeline & Journey</summary>
+<div>
+**2007:** Born on 12/28/07 in Texas.  
+
+**2012-2015:** Early exposure to games like Minecraft and simple coding experiments on Roblox.  
+- Learned basic logic and problem solving through small game projects.  
+
+**2016-2018:** Intensified gaming hobby.  
+- Discovered rhythm games like Friday Night Funkin’, Osu!, and ADOFAI.  
+- Began exploring modding communities and personal game modifications.  
+
+**2019-2020:** First coding attempts.  
+- Started learning Python and basic programming.  
+- Experimented with small Roblox scripts (mostly failed, but learned a lot).  
+
+**2021:** Focused on productivity & creative skills.  
+- Writing short stories and designing in-game mods.  
+- Started keeping a personal journal of ideas and coding notes.  
+
+**2022:** Advanced coding & modding.  
+- Contributed to mod charts and game scripts.  
+- Built small projects in Python and other languages.  
+
+**2024-2025:** Current stage.  
+- Published projects: [My Modcharts](https://github.com/just-Naki-here/NakisRandomfnfmodcharts/tree/moremmodd) & [Autoloader](https://github.com/just-Naki-here/Psych-Engine-Autoloader)   
+- Focused on improving coding skills, story writing, and gaming creativity.  
+- Exploring advanced modding, game mechanics, and personal projects.  
+
+**Future Goals:**  
+- Build more polished mods and tools for rhythm games.  
+- Expand coding knowledge and contribute to open-source projects.  
+- Continue storytelling and creative content.  
+- Keep improving personal projects while maintaining fun & balance.  
+</div>
+</details>
+
+<details>
+<summary>Team & Misc</summary>
+<div>
+- Team "Fuck off": ivan  
+- Constantly trying to learn new tricks in gaming and coding  
+- Big fan of creativity, storytelling, and problem-solving challenges  
+</div>
+</details>
