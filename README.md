@@ -12,30 +12,9 @@
 
 ---
 
-<style>
-details > summary {
-  background-color: #2b2b2b;
-  color: white;
-  padding: 12px;
-  border-radius: 6px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-details > summary:hover {
-  background-color: #3c3c3c;
-}
-details div {
-  background-color: #1e1e1e;
-  padding: 15px;
-  border-radius: 6px;
-  margin-top: 8px;
-  color: white;
-}
-</style>
-
 <details>
-<summary>About Me & Personal Info</summary>
-<div>
+<summary style="background-color:#2b2b2b; color:white; padding:10px; border-radius:6px;">About Me & Personal Info</summary>
+<div style="background-color:#1e1e1e; padding:15px; border-radius:6px; margin-top:8px; color:white;">
 - **Full Name:** Jonathan (Call me Naki)  
 - **Age:** 17  
 - **Birthday:** 12/28/07  
@@ -56,8 +35,8 @@ details div {
 </details>
 
 <details>
-<summary>Fun Facts & Quirks</summary>
-<div>
+<summary style="background-color:#2b2b2b; color:white; padding:10px; border-radius:6px;">Fun Facts & Quirks</summary>
+<div style="background-color:#1e1e1e; padding:15px; border-radius:6px; margin-top:8px; color:white;">
 - Can’t drink caffeine—pass out instantly  
 - Roblox coding has cursed me; nothing works  
 - Obsessed with origami and folding intricate shapes  
@@ -70,25 +49,25 @@ details div {
 </details>
 
 <details>
-<summary>Contact & Reach Me</summary>
-<div>
+<summary style="background-color:#2b2b2b; color:white; padding:10px; border-radius:6px;">Contact & Reach Me</summary>
+<div style="background-color:#1e1e1e; padding:15px; border-radius:6px; margin-top:8px; color:white;">
 - **Email:** [just.naki.here@gmail.com](mailto:just.naki.here@gmail.com)  
 - **Discord:** n4k2  
-- **Twitter:** [@just_naki_here](https://twitter.com/just_naki_here) (optional, for updates & coding projects)  
+- **Twitter:** [@just_naki_here](https://twitter.com/just_naki_here)  
 </div>
 </details>
 
 <details>
-<summary>Support Me</summary>
-<div>
+<summary style="background-color:#2b2b2b; color:white; padding:10px; border-radius:6px;">Support Me</summary>
+<div style="background-color:#1e1e1e; padding:15px; border-radius:6px; margin-top:8px; color:white;">
 - **Patreon:** [Support my work](https://patreon.com/Just_NAKI_here)  
 - **Tips/Donations:** Open to supporters on request  
 </div>
 </details>
 
 <details>
-<summary>Projects & Work</summary>
-<div>
+<summary style="background-color:#2b2b2b; color:white; padding:10px; border-radius:6px;">Projects & Work</summary>
+<div style="background-color:#1e1e1e; padding:15px; border-radius:6px; margin-top:8px; color:white;">
 - **Most Worked On Repository:** [My Modcharts](https://github.com/just-Naki-here/NakisRandomfnfmodcharts/tree/moremmodd)  
 - **Psych Engine Modchart Autoloader:** [Autoloader](https://github.com/just-Naki-here/Psych-Engine-Autoloader)  
 - **Other Projects:** Experimenting with custom game mods, small coding scripts, and personal tools for gaming and productivity  
@@ -96,8 +75,8 @@ details div {
 </details>
 
 <details>
-<summary>Coding Stats & Top Languages</summary>
-<div>
+<summary style="background-color:#2b2b2b; color:white; padding:10px; border-radius:6px;">Coding Stats & Top Languages</summary>
+<div style="background-color:#1e1e1e; padding:15px; border-radius:6px; margin-top:8px; color:white;">
 - **Top Languages:**  
 ![just-Naki-here's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-Naki-here&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
@@ -113,45 +92,38 @@ details div {
 </details>
 
 <details>
-<summary>My Timeline & Journey</summary>
-<div>
+<summary style="background-color:#2b2b2b; color:white; padding:10px; border-radius:6px;">My Timeline & Journey</summary>
+<div style="background-color:#1e1e1e; padding:15px; border-radius:6px; margin-top:8px; color:white;">
 **2007:** Born on 12/28/07 in Texas.  
 
 **2012-2015:** Early exposure to games like Minecraft and simple coding experiments on Roblox.  
-- Learned basic logic and problem solving through small game projects.  
 
 **2016-2018:** Intensified gaming hobby.  
 - Discovered rhythm games like Friday Night Funkin’, Osu!, and ADOFAI.  
-- Began exploring modding communities and personal game modifications.  
 
 **2019-2020:** First coding attempts.  
 - Started learning Python and basic programming.  
-- Experimented with small Roblox scripts (mostly failed, but learned a lot).  
 
 **2021:** Focused on productivity & creative skills.  
 - Writing short stories and designing in-game mods.  
-- Started keeping a personal journal of ideas and coding notes.  
 
 **2022:** Advanced coding & modding.  
 - Contributed to mod charts and game scripts.  
-- Built small projects in Python and other languages.  
 
 **2024-2025:** Current stage.  
-- Published projects: [My Modcharts](https://github.com/just-Naki-here/NakisRandomfnfmodcharts/tree/moremmodd) & [Autoloader](https://github.com/just-Naki-here/Psych-Engine-Autoloader)   
+- Published projects: [My Modcharts](https://github.com/just-Naki-here/NakisRandomfnfmodcharts/tree/moremmodd) & [Autoloader](https://github.com/just-Naki-here/Psych-Engine-Autoloader)  
 - Focused on improving coding skills, story writing, and gaming creativity.  
-- Exploring advanced modding, game mechanics, and personal projects.  
 
 **Future Goals:**  
 - Build more polished mods and tools for rhythm games.  
 - Expand coding knowledge and contribute to open-source projects.  
 - Continue storytelling and creative content.  
-- Keep improving personal projects while maintaining fun & balance.  
 </div>
 </details>
 
 <details>
-<summary>Team & Misc</summary>
-<div>
+<summary style="background-color:#2b2b2b; color:white; padding:10px; border-radius:6px;">Team & Misc</summary>
+<div style="background-color:#1e1e1e; padding:15px; border-radius:6px; margin-top:8px; color:white;">
 - Team "Fuck off": ivan  
 - Constantly trying to learn new tricks in gaming and coding  
 - Big fan of creativity, storytelling, and problem-solving challenges  
