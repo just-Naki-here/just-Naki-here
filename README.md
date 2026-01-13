@@ -33,7 +33,7 @@ Badges:
 #### Most Played/Favorite Games as of 12/27/2025
 		
   1. [Arsenal](https://www.roblox.com/games/286090429/Arsenal) at 70 hours( 2.91667 days or 252000 seconds)
-  2. [Nullscape](https://www.roblox.com/games/129279692364812/Nullscape) at 13 hours( 0.541667 days or 46800 seconds)
+  2. [Nullscape](https://www.roblox.com/games/129279692364812/Nullscape) at 37 hours( 1.5417 days or 133200 seconds)
   3. [Project: Afternight](https://www.roblox.com/games/13042495892/Project-Afternight) at 22 hours( 0.916667 days or 79200 seconds)
   4. [Project: RUSHER](https://www.roblox.com/games/106809703371658/Project-RUSHER) at 9 hours( 0.375 days or 32400 seconds)
   5. [Blox Cards TGC](https://www.roblox.com/games/270748344/Blox-Cards-TCG) at 22 hours( 0.916667 days or 79200 seconds)
@@ -42,9 +42,9 @@ Badges:
   8. [Everything Upgrade Tree](https://www.roblox.com/games/122809141833750/Everything-Upgrade-Tree) at 11 hours( 0.458333 days or 39600 seconds)
   9. [The Forge](https://www.roblox.com/games/76558904092080/The-Forge) at 7 hours( 0.291667 days or 25200 seconds)
 
-#### Total Time Played as of 12/27/2025
+#### Total Time Played as of 1/12/2026
 
-▪ Total Time: 637200 sec or 10620 minutes or 177 hours or 7.375 days or 1.05357 weeks or 0.242465158942 months
+▪ Total Time: 69120 sec or 11520 minutes or 192 hours or 8 days or 1.14286 weeks or 0.262465158942 months
 
 </details>
 
