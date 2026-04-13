@@ -11,13 +11,13 @@ Badges:
 <details>
 <summary></summary>
 
-▪ **Full Name:** Naki (real name is Jonathan Yaryan)  
+▪ **Full Name:** Naki (real name is Jonathan)  
 ▪ **Age:** 18  
 ▪ **Birthday:** 12/28/07  
 ▪ **Timezone:** Texas, USA (CDT/CST)  
 ▪ **Pronouns:** He/Him/His  
 ▪ **Sexuality:** Bi  
-▪ **Relationship Status:** Single  
+▪ **Relationship Status:** Taken  
 ▪ **Favourite Games:** ![badge](https://img.shields.io/badge/Minecraft-555555?style=flat&color=green), ![badge](https://img.shields.io/badge/Roblox-555555?style=flat&color=red), ![badge](https://img.shields.io/badge/FNF-555555?style=flat&color=purple), Osu!, ADOFAI, and Terraria 
 ▪ **Hobbies:** Coding, writing, gaming, messing with friends, and so on.
 ▪ **Extra Info:** I have ![ADHD-C](https://img.shields.io/badge/ADHD--C-555555?style=flat&color=orange), I am deathly allergic to nuts(aka will go into anaphylactic shock if consumed), I am the person in my family who is the most heavily medicated and the one who has the most allergies to things, I collect notebooks, and I sometimes have late-night coding sessions  
