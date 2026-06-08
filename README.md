@@ -11,13 +11,13 @@ Badges:
 <details>
 <summary></summary>
 
-▪ **Full Name:** Naki (real name is Jonathan)  
+▪ **Full Name:** Naki  
 ▪ **Age:** 18  
 ▪ **Birthday:** 12/28/07  
 ▪ **Timezone:** Texas, USA (CDT/CST)  
 ▪ **Pronouns:** He/Him/His  
-▪ **Sexuality:** Bi  
-▪ **Relationship Status:** Taken  
+▪ **Sexuality:** Straight
+▪ **Relationship Status:** Not Taken(not looking for ons)  
 ▪ **Favourite Games:** ![badge](https://img.shields.io/badge/Minecraft-555555?style=flat&color=green), ![badge](https://img.shields.io/badge/Roblox-555555?style=flat&color=red), ![badge](https://img.shields.io/badge/FNF-555555?style=flat&color=purple), Osu!, ADOFAI, and Terraria 
 ▪ **Hobbies:** Coding, writing, gaming, messing with friends, and so on.
 ▪ **Extra Info:** I have ![ADHD-C](https://img.shields.io/badge/ADHD--C-555555?style=flat&color=orange), I am deathly allergic to nuts(aka will go into anaphylactic shock if consumed), I am the person in my family who is the most heavily medicated and the one who has the most allergies to things, I collect notebooks, and I sometimes have late-night coding sessions  
@@ -30,7 +30,7 @@ Badges:
 <details>
 <summary></summary>
 
-#### Most Played/Favorite Games as of 12/27/2025
+#### Most Played/Favorite Games as of 12/27/2025(massively outdated(i refuse to fix it))
 		
   1. [Arsenal](https://www.roblox.com/games/286090429/Arsenal) at 70 hours( 2.91667 days or 252000 seconds)
   2. [Nullscape](https://www.roblox.com/games/129279692364812/Nullscape) at 37 hours( 1.5417 days or 133200 seconds)
@@ -44,7 +44,7 @@ Badges:
 
 #### Total Time Played as of 1/12/2026
 
-▪ Total Time: 69120 sec or 11520 minutes or 192 hours or 8 days or 1.14286 weeks or 0.262465158942 months
+▪ Total Time: 69120 sec or 11520 minutes or 192 hours or 8 days or 1.14286 weeks or 0.262465158942 months(massively outdated(i refuse to fix it)))
 
 </details>
 
